@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoreholeVolume", "BoreholeVolume.csproj", "{8A911A6A-19C6-4374-B881-DD01BECE4FFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoreholeVolumeUnitTests", "..\BoreholeVolumeTests\BoreholeVolumeUnitTests.csproj", "{EB0ED6EF-CD3B-44F2-946A-4F7D9356D64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A911A6A-19C6-4374-B881-DD01BECE4FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A911A6A-19C6-4374-B881-DD01BECE4FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A911A6A-19C6-4374-B881-DD01BECE4FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A911A6A-19C6-4374-B881-DD01BECE4FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0ED6EF-CD3B-44F2-946A-4F7D9356D64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0ED6EF-CD3B-44F2-946A-4F7D9356D64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0ED6EF-CD3B-44F2-946A-4F7D9356D64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0ED6EF-CD3B-44F2-946A-4F7D9356D64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C43E04F-9055-4B6A-BCC3-FDCF72876780}
+	EndGlobalSection
+EndGlobal
