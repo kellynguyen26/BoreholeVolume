@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoreholeVolume.Engine.MissingTemperatureCompensation" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\MissingTemperatureCompensation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BoreholeVolume.Engine.MissingRadiusCompensation" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\MissingRadiusCompensation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BoreholeVolume.Engine.BoreholeVolumeCalculation" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQAAAAAAAAAAAAAAAEAACAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\BoreholeVolumeCalculation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BoreholeVolume.Engine.RadiusCompensation" BaseTypeListCollapsed="true">
+    <Position X="6" Y="1.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\RadiusCompensation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="BoreholeVolume.Engine.ICompensation">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\ICompensation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BoreholeVolume.Engine.IVolumeCalculate">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\IVolumeCalculate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
